@@ -1,0 +1,7 @@
+wikipedia==1.4.0
+numpy==1.18.1
+spacy==2.3.2
+Flask==1.1.2
+jsonpickle==1.4.1
+Flask_Cors==3.0.9
+requests==2.25.0
